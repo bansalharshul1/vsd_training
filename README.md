@@ -1,9 +1,11 @@
 # vsd_training
 
 # Contents:
+
 [Day 1 Introduction to open sources EDA and PDK](https://github.com/bansalharshul1/vsd_training/edit/main/README.md#day1-introduction)
 
-  1. 
+[Day 2 Floorplaing and introduction to libraries](https://github.com/bansalharshul1/vsd_training/edit/main/README.md#day2---floorplaning-and-introduction-to-library-cells) 
+
 
 # Day1 Introduction 
 
@@ -49,6 +51,8 @@ Backend
 
 ![image](https://github.com/user-attachments/assets/33eeb813-4565-4c0e-a60d-0b50a7da9838)
 
+
+# Day2 - Floorplaning and introduction to library cells
 
 
 

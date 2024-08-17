@@ -77,9 +77,27 @@ Backend
 Magic for extraction 
 Netgen for LVS
 
-# OpenLANE EDA Tools
-
 # Directory Structure
+
+PDK Directory : -
+
+sky130A --> compatible with open source tools
+
+![image](https://github.com/user-attachments/assets/8abc2556-0ad8-4460-ba56-1332b3c0772a)
+
+we will be using sky130_fd_sc_hd  library
+
+![image](https://github.com/user-attachments/assets/06525252-5145-4dae-8165-4e2e87945e26)
+
+Different corners --> FF - fast-fast TT - Typical SS -  slow slow
+
+lef flies --> cell lef and tech lef (layer information )
+
+
+Working Directory : - openlane
+
+# Design Prepration
+
 
 
 # Day2 - Floorplaning and introduction to library cells

@@ -151,9 +151,11 @@ Total number of cells/ instances : 14876
 flop ratio  no of FF/ total no. of cells  =  10.8%
 
 
-5.2 Viewing the results of syntesis
+5.2 Viewing the results of synthesis
 
 ![image](https://github.com/user-attachments/assets/ba9416f7-b102-4a90-b8d8-75a4877e16ae)
+
+
 
 
 

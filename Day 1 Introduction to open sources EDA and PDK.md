@@ -89,9 +89,21 @@ Working Directory: - openlane
 
 # Design Preparation
 
+
 1. docker
 2. ./flow.tcl -interactive {invole step by step flow}
-3. package require openlane 0.9
+3. package require openlane 0.9  {import all the packages required to run openlane}
+
+contents of design folder for picorv32a: 
+
+![image](https://github.com/user-attachments/assets/9c478ce3-baac-4042-82fe-4b46fbbef25c)
+
+config.tcl --> bypass any default configuration 
+pdk specific config.tcl --> higher precedence than config.tcl
+
+scr --> contains the verilog and SDC for our design
+
 4. 
+5. 
 
 

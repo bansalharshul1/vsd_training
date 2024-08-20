@@ -127,7 +127,7 @@ config.tcl --> shows all the configs that are being used in setup. This can be u
 cmds.log --> to check all the commands that were performed 
 
 
-5. run_synthesis
+5. run_synthesis  {invokes syntesis and ABC}
 
 
 

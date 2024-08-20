@@ -104,7 +104,7 @@ Working Directory: - openlane
 
    scr --> contains the verilog and SDC for our design
 
-5. prep -design picorv32a {setting the pdk path, choosing the std library, sourcing config.tcl}
+4. prep -design picorv32a {setting the pdk path, choosing the std library, sourcing config.tcl}
 
    ![image](https://github.com/user-attachments/assets/c9c68a2d-7ec9-4b1e-9898-caf32d83d2bc)
 
@@ -112,13 +112,11 @@ Working Directory: - openlane
 
    --> mergerd tech lef with cell lefs
 
-    Checking the contents of newly created run directory
-   
 
+# Review design prep & run syntesis 
 
+tmp folders contains the temporary files --> merged.led  (techlef and cell lefs appended)
 
-
-   
-5. 
+Other folders will be empty as of now.
 
 

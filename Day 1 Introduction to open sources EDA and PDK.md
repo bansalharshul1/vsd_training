@@ -114,9 +114,20 @@ Working Directory: - openlane
 
 
 # Review design prep & run syntesis 
+![image](https://github.com/user-attachments/assets/e7315b4c-f3c4-4685-b38e-e243c673ec5d)
 
 tmp folders contains the temporary files --> merged.led  (techlef and cell lefs appended)
 
-Other folders will be empty as of now.
+reports and results  folders will be empty as of now.
+
+config.tcl --> shows all the configs that are being used in setup. This can be used to verify if configurations are correctly applied or not
+
+![image](https://github.com/user-attachments/assets/a118dfdf-8730-47bb-b3f1-1a83c833f1fa)
+
+cmd
+
+
+
+
 
 

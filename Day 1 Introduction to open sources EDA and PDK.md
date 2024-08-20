@@ -124,12 +124,15 @@ config.tcl --> shows all the configs that are being used in setup. This can be u
 
 ![image](https://github.com/user-attachments/assets/a118dfdf-8730-47bb-b3f1-1a83c833f1fa)
 
-cmds.log --> to check all the commands what were performed 
+cmds.log --> to check all the commands that were performed 
+
+
+5. run_synthesis
 
 
 
 # openLANE github link
-
+https://github.com/efabless/openlane2
 
 # steps to characterize synthesis results
 

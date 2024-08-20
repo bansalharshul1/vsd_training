@@ -136,10 +136,24 @@ https://github.com/efabless/openlane2
 
 # steps to characterize synthesis results
 
+![image](https://github.com/user-attachments/assets/2db074e8-4185-4c7a-a924-a717007b694f)
 
 
+5.1 calculate the flop ratio 
+
+![image](https://github.com/user-attachments/assets/5519c986-f76a-4765-8d4f-4e2f97d04911)
+No of D-FF's 1613
+
+![image](https://github.com/user-attachments/assets/406145d5-b4c5-44bc-9a99-e28dea8773cf)
+
+Total number of cells/ instances : 14876
+
+flop ratio  no of FF/ total no. of cells  =  10.8%
 
 
+5.2 Viewing the results of syntesis
+
+![image](https://github.com/user-attachments/assets/ba9416f7-b102-4a90-b8d8-75a4877e16ae)
 
 
 

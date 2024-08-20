@@ -94,16 +94,31 @@ Working Directory: - openlane
 2. ./flow.tcl -interactive {invole step by step flow}
 3. package require openlane 0.9  {import all the packages required to run openlane}
 
-contents of design folder for picorv32a: 
+   contents of design folder for picorv32a:
 
-![image](https://github.com/user-attachments/assets/9c478ce3-baac-4042-82fe-4b46fbbef25c)
+   ![image](https://github.com/user-attachments/assets/9c478ce3-baac-4042-82fe-4b46fbbef25c)
 
-config.tcl --> bypass any default configuration 
-pdk specific config.tcl --> higher precedence than config.tcl
+   config.tcl --> bypass any default configuration
 
-scr --> contains the verilog and SDC for our design
+   pdk specific config.tcl --> higher precedence than config.tcl
 
-4. 
+   scr --> contains the verilog and SDC for our design
+
+5. prep -design picorv32a {setting the pdk path, choosing the std library, sourcing config.tcl}
+
+   ![image](https://github.com/user-attachments/assets/c9c68a2d-7ec9-4b1e-9898-caf32d83d2bc)
+
+   --> this step creates a run directory in design/picorv32a/results/new_run_directory
+
+   --> mergerd tech lef with cell lefs
+
+    Checking the contents of newly created run directory
+   
+
+
+
+
+   
 5. 
 
 

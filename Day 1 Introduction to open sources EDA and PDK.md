@@ -85,6 +85,13 @@ Different corners --> FF - fast-fast TT - Typical SS -  slow slow
 lef flies --> cell lef and tech lef (layer information )
 
 
-Working Directory : - openlane
+Working Directory: - openlane
 
-# Design Prepration
+# Design Preparation
+
+1. docker
+2. ./flow.tcl -interactive {invole step by step flow}
+3. package require openlane 0.9
+4. 
+
+

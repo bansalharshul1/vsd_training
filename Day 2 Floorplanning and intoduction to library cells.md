@@ -29,10 +29,32 @@ aspect ratio = height of core / width of core
 
 The placemnt of these cells are placed before the actual placment and locations are fixed
 
-3. 
+Macro or ips to be re-used multiple times
+
+depanding on design bakgroung pre place cells are choosen. Once placed they are not moved in deisgn cycle
+
+pre place cells are surrounded by decaps.
+
+decaps are added to take care of voltage drop and mantain a relaiable voltage level
+
+![image](https://github.com/user-attachments/assets/09da046e-cda2-416b-b74b-d6fb0078e835)
+
+![image](https://github.com/user-attachments/assets/d0e89d2d-b13c-41d2-bce0-f78eed0b1fff)
+
+
+![image](https://github.com/user-attachments/assets/686c8001-22f9-4bf6-8504-3bff3ed7998d)
+
+3. Power Planing
+
+![image](https://github.com/user-attachments/assets/559e4efe-227d-4460-acb0-676ed37bf470)
+
+
+4. Pin placement
 
 
 
+
+5. 
 
 
 

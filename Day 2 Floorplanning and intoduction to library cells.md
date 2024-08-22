@@ -23,11 +23,19 @@ aspect ratio = height of core / width of core
 # concept of pre- placed cells
 
 2. defining locations of preplaced cells
+![image](https://github.com/user-attachments/assets/e5640d91-6c64-4207-b4c4-f71f294afd78)
 
+![image](https://github.com/user-attachments/assets/d1cafd23-dfe3-4fa4-9637-743b6c882003)
 
-
-
+The placemnt of these cells are placed before the actual placment and locations are fixed
 
 3. 
+
+
+
+
+
+
+
 
 

@@ -156,7 +156,23 @@ the std cells are not placed in floorplan stage you can see them at the lower le
    part of circuit which operates at high speed we might place the cells with no gap in such cases to save wire delay
 
    during routhing the connection can go from different metal layers
+
+   we do setup analysis with ideal clocks to verify if the placement is reasonable or not
+
+
+4. Need for libraries and characterizatio
    
-      
-3. 
+![image](https://github.com/user-attachments/assets/4f99fc52-3568-4b9e-ba89-c88349a75e33)
+
+
+
+6. 
+
+
+
+
+
+
+
+
 

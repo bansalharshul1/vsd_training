@@ -100,15 +100,23 @@ Can calculate the die area from the dimensions
 
 Command to run magic and open the def 
 
-output def present results/floorplan
+output def present in results/floorplan
 
 magic -T tech_file_path lef read mergerd.lef def read def_path
 
+# checking floorplan in magic
+
+Since we set FP_IO_MODE 1 . so input outpout pin are at equal distance
 
 
+Z , shift Z for zoom and zoom out
 
+S to select any object 
 
+horizontal io on metal 3 
+![image](https://github.com/user-attachments/assets/e4c6ac77-893d-4935-ac30-bd00a23abede)
 
-
+# verical io on metal 2 not in 4 as said in vedio
+![image](https://github.com/user-attachments/assets/a2abfa5d-6010-4d15-9f19-2a801c28cea8)
 
 

@@ -11,4 +11,6 @@
 
 ![image](https://github.com/user-attachments/assets/ecd3fe3a-b5a0-4f12-beef-1bc15827ce42)
 
-4.   
+
+floor planing verical IO on metal 2 instead of 4 
+https://github.com/bansalharshul1/vsd_training/blob/main/Day%202%20Floorplanning%20and%20intoduction%20to%20library%20cells.md#verical-io-on-metal-2-not-in-4-as-said-in-vedio

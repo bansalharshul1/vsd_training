@@ -51,10 +51,26 @@ decaps are added to take care of voltage drop and mantain a relaiable voltage le
 
 4. Pin placement
 
+generally all input ports in the left and output ports on the right side
+
+
+depending on connectivty and location of blocks to determine to best possible possition for a particular pin
+
+
+Clock ports are bigger in size compared to other inputs 
+![image](https://github.com/user-attachments/assets/29305f7c-fd28-42fd-801b-e776a447f1b3)
+
+5. logical cell placement blockages
+
+so that automatic placment tool doesn't place any cells in pin area we place blockages
+
+![image](https://github.com/user-attachments/assets/54dc5e6d-6924-4e2c-afc6-9fd1b2e9a5cb)
+
+6. Placement & routing
 
 
 
-5. 
+7. 
 
 
 

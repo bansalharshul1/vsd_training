@@ -12,5 +12,10 @@
 ![image](https://github.com/user-attachments/assets/ecd3fe3a-b5a0-4f12-beef-1bc15827ce42)
 
 
+not seeing similat logs to vedio for floor planing 
+
+https://github.com/bansalharshul1/vsd_training/blob/main/Day%202%20Floorplanning%20and%20intoduction%20to%20library%20cells.md#not-seeing-the-logs-present-in-vedio-to-verify-the-floorplaning-ioplacer-log-different-than-vedio
+
+
 floor planing verical IO on metal 2 instead of 4 
 https://github.com/bansalharshul1/vsd_training/blob/main/Day%202%20Floorplanning%20and%20intoduction%20to%20library%20cells.md#verical-io-on-metal-2-not-in-4-as-said-in-vedio

@@ -218,15 +218,33 @@ Power distribution network should be created during the floorplaning but current
    3. convert the stick diagrom into the layout keeping DRC in mind 
 
 6. Typical characterization Flow
+   ![image](https://github.com/user-attachments/assets/55bf9b87-8af8-4dfb-a1ce-2eb3c33a0af5)
+   ![image](https://github.com/user-attachments/assets/47d43dca-c917-421a-982d-48447703fdf8)
 
+   1. read the models
+   2. read the extracted spice netlisted
+   3. define / recognise the behaviour of buffer
+   4. read the subcircuit of the inverter
+   5. attach the necessary power sources
+   6. apply the stimulus.
+   7. apply the load this needs to be varied in a range
+   8. provide a simulation command tran or dc
+   Characterization tool GUNA
+
+   output: timing,noise,power libs, functions
 
  # General timing characterization parameters
- 
 
-
-
-
-
+ 1. Timing threshold definations
+    1. slew_low_rise_thr , slew_high_rise_thr
+    2. slew_low_fall_thr, slew_high_fall_thr
+    3. in_rise_thr - 50% point in input and output
+    4. in_fall_thr - 50% points in 
+    5. out_rise_thr
+    6. out_fall_thr
+      
+2. propagation delay and transition time
+   
 
 
 

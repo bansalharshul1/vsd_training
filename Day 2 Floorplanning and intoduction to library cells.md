@@ -187,14 +187,37 @@ Power distribution network should be created during the floorplaning but current
 # Cell Design Flow
 
 1. Inputs of cell design Flow
+   
+   ![image](https://github.com/user-attachments/assets/593ebfa3-235d-4353-8ec7-1ed247334cd7)
 
+   library contains the cells of different functionality, multi vt cells, different sizes.
 
+   taking INV as exapmple
 
+   Inputs for cell Design Flow
+   1. PDK: DRC & LVS rules, spice models, library & user-defined specs
+      example of Design rules
+      ![image](https://github.com/user-attachments/assets/2770dead-4c5c-4e02-adfe-4e38a66ee855)
+      Spice model parameters:
+      ![image](https://github.com/user-attachments/assets/9f2b02cc-9ef2-4f77-ad4f-9ec3c2127d50)
+      
 2. Circuit Deisgn step
+   cell height is fixed for a particular technology,  cell witdths are dependent on drive strength
+   User defiend specifications : 
+   cell height, Supply voltage, Metal Layers, Pin locations, Drawn gate length
 
-3. Layout deisgn step
+   1. Implement the functionality
+   2. model PMOS and NMOS in such a way to meet the library requirements such as W/L ratio, mostly based on spice simulation
+      ![image](https://github.com/user-attachments/assets/0325da4d-af4f-43da-b484-a20bc72e64db)
+   3. CDL file is the output of this step circuit description language
 
-4. Typical characterization Flow
+4. Layout deisgn step
+   1. get Pmos and nmos network path
+   2. draw a stick diagram using it
+      ![image](https://github.com/user-attachments/assets/84af4e49-6b8b-4f16-b83a-24f4caa572ed)
+   3. convert the stick diagrom into the layout keeping DRC in mind 
+
+6. Typical characterization Flow
 
 
  # General timing characterization parameters

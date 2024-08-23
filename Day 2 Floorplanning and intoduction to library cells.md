@@ -132,4 +132,31 @@ the std cells are not placed in floorplan stage you can see them at the lower le
 
 # Library Binding and palcement
 
+1. Bind netlist and physical cells
+   all cells are rectangular with proper height and width
+
+   ![image](https://github.com/user-attachments/assets/735da6bb-b3b2-43b0-8328-1465ededf555)
+
+   library --> contains the timing physical and electrical info of different cells
+
+2. placement
+
+   pre-place cells are already present
+
+   ![image](https://github.com/user-attachments/assets/c569dccc-fe4a-499e-b8cc-e182bd3d7c75)
+
+3. optize placement
+  
+   optimizing the placement with etimated wirelength and capacitances
+
+   Repeater/buffer stages are added to maintain signal integrity
+
+   ![image](https://github.com/user-attachments/assets/65570014-4cc9-46d5-91ac-f1e5aaf79ca4)
+
+   part of circuit which operates at high speed we might place the cells with no gap in such cases to save wire delay
+
+   during routhing the connection can go from different metal layers
+   
+      
+3. 
 

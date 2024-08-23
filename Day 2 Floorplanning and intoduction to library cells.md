@@ -66,11 +66,46 @@ so that automatic placment tool doesn't place any cells in pin area we place blo
 
 ![image](https://github.com/user-attachments/assets/54dc5e6d-6924-4e2c-afc6-9fd1b2e9a5cb)
 
-6. Placement & routing
+
+#LAB Floorplaning
+openlane/congifuration/README.md
+
+Floorplanning switches variables like aspect ratio core utilization factor
+
+![image](https://github.com/user-attachments/assets/7dd0c11f-e0a9-43bb-9aa2-ca3331667eb0)
+
+Floor planning options set in our config.tcl 
+
+Vertical and horizontal metals will be one more than what is specified here. so 5 verical and 4 horizontal
+
+![image](https://github.com/user-attachments/assets/174729bb-4e9f-412f-8d76-0265ec1854c5)
+
+Running the floorplan
+
+command --> run_floorplan
+
+![image](https://github.com/user-attachments/assets/01076139-5a37-4067-9d2a-16774f0d5163)
+
+
+# reviewing the floorplaning
+
+# Not seeing the logs present in vedio to verify the floorplaning ioplacer log different than vedio
+
+
+Def file snipped 
+
+Can calculate the die area from the dimensions
+
+![image](https://github.com/user-attachments/assets/bc3708d3-6e4f-403f-9804-7c5dc3cc54b5)
+
+Command to run magic and open the def 
+
+output def present results/floorplan
+
+magic -T tech_file_path lef read mergerd.lef def read def_path
 
 
 
-7. 
 
 
 

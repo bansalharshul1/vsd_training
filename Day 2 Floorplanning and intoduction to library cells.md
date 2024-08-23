@@ -120,3 +120,16 @@ horizontal io on metal 3
 ![image](https://github.com/user-attachments/assets/a2abfa5d-6010-4d15-9f19-2a801c28cea8)
 
 
+tap cells and decaps cells
+taps cells are diagonally apart by some distance which can be set using the the config keyword
+![image](https://github.com/user-attachments/assets/54c5042e-db77-4fd3-b3a9-2e50f7305dac)
+
+
+the std cells are not placed in floorplan stage you can see them at the lower left corner
+
+![image](https://github.com/user-attachments/assets/4597d7c4-0052-4695-8bdf-e96b2505e3f7)
+
+
+# Library Binding and palcement
+
+

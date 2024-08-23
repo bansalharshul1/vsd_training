@@ -165,8 +165,40 @@ the std cells are not placed in floorplan stage you can see them at the lower le
 ![image](https://github.com/user-attachments/assets/4f99fc52-3568-4b9e-ba89-c88349a75e33)
 
 
+5. Congestion aware placemnet using RePLAce
+   two stages -->
+   Global placement or coarse placement - no legalization (std cells should have any overlaps) --> main objective is to reduce the wire length
 
-6. 
+   Half perimeter wire length  (HPWL) : 
+
+   OverFlow (OVFL)
+
+   if OVFL decreases that mean design is converging
+   
+# LAB run_placement
+
+magic after global placement
+
+![image](https://github.com/user-attachments/assets/2b246fbd-69db-4abe-8e8b-8f53af48f553)
+
+Power distribution network should be created during the floorplaning but currently in openlance flow it will be done after CTS
+
+
+# Cell Design Flow
+
+1. Inputs of cell design Flow
+
+
+
+2. Circuit Deisgn step
+
+3. Layout deisgn step
+
+4. Typical characterization Flow
+
+
+ # General timing characterization parameters
+ 
 
 
 

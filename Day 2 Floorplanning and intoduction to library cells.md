@@ -236,16 +236,35 @@ Power distribution network should be created during the floorplaning but current
  # General timing characterization parameters
 
  1. Timing threshold definations
-    1. slew_low_rise_thr , slew_high_rise_thr
-    2. slew_low_fall_thr, slew_high_fall_thr
-    3. in_rise_thr - 50% point in input and output
-    4. in_fall_thr - 50% points in 
-    5. out_rise_thr
-    6. out_fall_thr
-      
-2. propagation delay and transition time
-   
+    1. slew_low_rise_thr - 20% point lower side
+    2. slew_high_rise_thr - 20% point high side
+    3. slew_low_fall_thr  
+    4. slew_high_fall_thr
+    5. in_rise_thr - 50% point in input and output
+    6. in_fall_thr - 50% points in 
+    7. out_rise_thr
+    8. out_fall_thr
+      ![image](https://github.com/user-attachments/assets/9e4e300d-b461-4bcb-9249-17c4e7c3d610)
 
+     
+
+2. propagation delay and transition time
+   ![image](https://github.com/user-attachments/assets/b61051dc-b0fd-4a19-9c78-b621a9275a66)
+
+propagation delay highly depend on the threshold points choosen
+
+When the wire cap is high between 2 interverters the output slew of 1st inverter will be very high thus will result in incorrect calculation of propagation delay of the cell
+![image](https://github.com/user-attachments/assets/abdc4f56-d14d-4567-be71-f367aef56517)
+
+
+Transition Times
+rise waveform
+![image](https://github.com/user-attachments/assets/0a99a0f1-594c-4c96-a8ba-7b18c6b10baf)
+fall wareform
+![image](https://github.com/user-attachments/assets/28b7e6f4-6c6d-4db5-9c25-bee9d4bdb8c6)
+
+
+Output current waveform
 
 
 

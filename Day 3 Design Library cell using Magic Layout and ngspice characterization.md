@@ -44,4 +44,10 @@ indentifying the how rise and fall delay vary with the change in switching thres
 ![image](https://github.com/user-attachments/assets/d4f1ff2c-f5cb-4568-bc67-501f1610d791)
 
 
+# Labs 
+
+Git repo link: https://github.com/nickson-jose/vsdstdcelldesign
+![image](https://github.com/user-attachments/assets/cc46a6a5-bf9f-4773-8dd7-2c725f9ee40f)
+
+checking the mag file. 
 

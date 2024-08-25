@@ -41,5 +41,7 @@ case 2 switching threshold ~ 1.2
 indentifying the how rise and fall delay vary with the change in switching threshold
 
  
+![image](https://github.com/user-attachments/assets/d4f1ff2c-f5cb-4568-bc67-501f1610d791)
+
 
 

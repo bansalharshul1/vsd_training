@@ -141,10 +141,11 @@ checking the mag file.
 
 
 
-   10. 
-      
+  # basic layers layout and LEF using inverter
+  ![image](https://github.com/user-attachments/assets/bcdea3ea-d5c2-422a-9dc5-9ea72c17ee85)
 
 
+# steps to create STD cell layout and extract spice netlist
+  ![image](https://github.com/user-attachments/assets/994ecee1-7d59-484f-962d-b50b2eca2742)
 
 
-      

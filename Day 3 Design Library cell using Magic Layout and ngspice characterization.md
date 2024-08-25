@@ -50,4 +50,101 @@ Git repo link: https://github.com/nickson-jose/vsdstdcelldesign
 ![image](https://github.com/user-attachments/assets/cc46a6a5-bf9f-4773-8dd7-2c725f9ee40f)
 
 checking the mag file. 
+![image](https://github.com/user-attachments/assets/a2e9ee09-9a4e-4b44-80e9-4459305323db)
 
+![image](https://github.com/user-attachments/assets/7e4541ff-b5d3-4cca-8560-0db3732f953d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Inception of Layout and CMOS fabrication process
+
+1. Creating Active regions:
+   16 - mask process
+
+   1. selecting the substrate
+      Doping level of substrate should be less than the well doping
+      ![image](https://github.com/user-attachments/assets/8ca88c14-da77-48f7-8e70-ac66723db926)
+
+   2. Creating active regions
+  
+      16-mask cmos process
+      Mask 1
+      ![image](https://github.com/user-attachments/assets/0b2273cf-981a-4c0d-9b13-47e5f3cc6da6)
+
+      depositing the layer of silicon oxide then a layer of silicon nitride
+      deposit of layer of photoresist
+      
+      
+      etching away the silicon nitrid
+      growing SI02 ,LOCOS local oxidation of silicon
+      ![image](https://github.com/user-attachments/assets/a0feb7f4-c322-424e-ab39-c4439b6def2a)
+      etch out silicon nitride
+      isolation regions present the 2 device from interfering in other;s function
+      
+   4. Nwell and P well
+      Mask2
+      ![image](https://github.com/user-attachments/assets/90e954de-325f-4b76-9e75-cca91696ec3e)
+      Ion implantation using Boron or any other P type material
+      ![image](https://github.com/user-attachments/assets/a521a19d-2bd0-478f-b8be-3508ddde9794)
+      making n well using Phosphorous
+      ![image](https://github.com/user-attachments/assets/57f006bf-a367-42b4-a836-d74a63bd6c5f)
+      n-well and p well are created but we need to do diffusion twin well process to ave clear nwelll and well
+      ![image](https://github.com/user-attachments/assets/86ffa298-9348-4cca-a438-7a7e1b2270c1)
+
+
+   4. Formation of gate:
+       ![image](https://github.com/user-attachments/assets/30d093d5-f3e1-46c9-a0ef-75f9fb0a689b)
+      doping concentration and Cox are controlled to get the desired Vth for the mos
+      ![image](https://github.com/user-attachments/assets/40dce2d9-f19d-4160-80f9-f326707c3e8d)
+      deposition of polysilicon and doping it with more impurities
+   
+      ![image](https://github.com/user-attachments/assets/8bc42c90-053a-4c02-9f5f-47a71b62bbf1)
+      ![image](https://github.com/user-attachments/assets/65943023-fdf3-4b9f-9fe9-bbbfac6ee326)
+  
+   5. Lightly doped drain LDD formation
+      Readon of  P+, P-,N  & N+,N-,P doping profiles
+      1. hot electron effect
+      2. short channel effect
+
+      when device size decreases the elctrical field increases,
+
+      ![image](https://github.com/user-attachments/assets/abeb891b-b437-4fdd-9f82-f3eb55849d02)
+      ![image](https://github.com/user-attachments/assets/4b7181f1-6d79-4c5f-b01e-8169a6ee472a)
+      
+   6. Source and drain formation
+      a thin screen oxide is added to avoid channeling effects
+      ![image](https://github.com/user-attachments/assets/e35766cd-101f-48b4-9a2f-91c844e0ae32)
+      ![image](https://github.com/user-attachments/assets/40e986aa-6ec7-4050-88f7-0990bd332487)
+
+   7. Steps to form contacts and interconnects
+      Sputtering : using titanium on wafer surface.
+      ![image](https://github.com/user-attachments/assets/0f3a395b-8792-4027-97b5-b5bd68830a97)
+
+      Creating a contact
+      Heating in nitrogen ambient
+      ![image](https://github.com/user-attachments/assets/d8494b6a-62a7-478b-9b70-4e3d2bfdadd3)
+
+   8. Higher metal level formation
+      deposition of SiO2 with phosphotorous or boron
+      Chemical mechanical polishing for planarizing wafer surface
+      ![image](https://github.com/user-attachments/assets/164207f5-4927-4685-9094-3c83dad98012)
+
+
+
+   10. 
+      
+
+
+
+
+      

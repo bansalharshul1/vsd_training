@@ -172,8 +172,14 @@ checking the mag file.
 
 
 1. Create final SPICE deck using sky130A tech
+   ![image](https://github.com/user-attachments/assets/561ea95d-d040-4d59-b5fc-fec45760ac64)
+![image](https://github.com/user-attachments/assets/a3ea89ab-ed1b-4ea2-84eb-03b811574b93)
 
-2. 
+Model files
+![image](https://github.com/user-attachments/assets/30995339-677b-4735-a3aa-aacc98270e10)
+
+
+Running the simulation using ngspice
 
 
     

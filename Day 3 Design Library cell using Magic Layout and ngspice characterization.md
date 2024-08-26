@@ -143,9 +143,41 @@ checking the mag file.
 
   # basic layers layout and LEF using inverter
   ![image](https://github.com/user-attachments/assets/bcdea3ea-d5c2-422a-9dc5-9ea72c17ee85)
-
+   ![image](https://github.com/user-attachments/assets/994ecee1-7d59-484f-962d-b50b2eca2742)
 
 # steps to create STD cell layout and extract spice netlist
-  ![image](https://github.com/user-attachments/assets/994ecee1-7d59-484f-962d-b50b2eca2742)
+
+1. Sky130 has a nomenclature of unithd with demension in microns  0.46 x 2.72(width X height) for sky_130fd_sc_hd PDK
+2. invoke the magic tool using this command : magic -T sky130A.tech&
+3. creating a bounding boc of with 1.38(3xwidth(unithd)) and height 2.72  commmand : property FIXED_BBOX {0 0 138 272}
+4. press S and type box in the window
+   ![image](https://github.com/user-attachments/assets/41433f48-ad1e-4f02-90d5-b61cf11aa841)
+5.  n-substrate -<n substrate contact>- locali
+    ![image](https://github.com/user-attachments/assets/4e160a1e-3c9f-41ee-859b-327ad8f14c71)
+    ![image](https://github.com/user-attachments/assets/9107808a-8080-4f30-a3be-712eaa47ace5)
+
+6. Extract the layout to ext file command extract all
+   ![image](https://github.com/user-attachments/assets/6031181c-88eb-40d2-a1bd-3373c88195b7)
+
+7. This ext file will be used to create a spice file  Command: ext2spice cthresh 0 rthresh 0
+   ![image](https://github.com/user-attachments/assets/3df27c2c-418a-473e-b262-4cc8010a925d)
+
+8.  Spice file
+   ![image](https://github.com/user-attachments/assets/9caf1824-6600-423e-a770-e84973d6c456)
+
+
+
+
+# Tech File Labs
+
+
+1. Create final SPICE deck using sky130A tech
+
+2. 
+
+
+    
+
+
 
 

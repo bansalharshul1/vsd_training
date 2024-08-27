@@ -242,6 +242,7 @@ added the rule for poly to polyres
 
 tech load tech_file_path to load the new editied tech file
 
+drc why to see the drc reason
 
 
 

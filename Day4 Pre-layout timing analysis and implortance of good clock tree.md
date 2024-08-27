@@ -21,10 +21,15 @@ Port class, port
 
 ![image](https://github.com/user-attachments/assets/375cebb6-b2da-4e52-9297-68605ea27129)
 
-command to extract the lef file: 
+command to extract the lef file:  lef write
 
+checking the lef file 
 
+![image](https://github.com/user-attachments/assets/83931caf-490f-4ca8-8d3e-d4af7276d082)
 
+Next step is to use this lef in our picorv32
+
+moving the files to src folder
 
 
 # Timing analysis with ideal clock using openSTA

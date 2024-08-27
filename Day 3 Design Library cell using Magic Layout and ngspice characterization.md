@@ -196,9 +196,12 @@ Basic DRC rules are rdge based rules. work by finding the edge or boundry betwee
 
 Area of min area rules. 
 
+Google skywater pdk docs: https://skywater-pdk.readthedocs.io/en/main/
+DRC rules: http://opencircuitdesign.com/magic/techref/maint2.html#drc
+
+Command to get the drc testcase. 
+![image](https://github.com/user-attachments/assets/488c4358-889c-4583-828d-b25d05d3da4f)
 
 
-
- 
 
 

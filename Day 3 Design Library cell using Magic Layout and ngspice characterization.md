@@ -55,17 +55,6 @@ checking the mag file.
 ![image](https://github.com/user-attachments/assets/7e4541ff-b5d3-4cca-8560-0db3732f953d)
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Inception of Layout and CMOS fabrication process
 
 1. Creating Active regions:
@@ -181,9 +170,35 @@ Model files
 
 Running the simulation using ngspice
 
+Command: ngspice ./path_to_spice_file
 
-    
+![image](https://github.com/user-attachments/assets/b1089330-182c-41af-a3fb-1b1c7432ade4)
+
+Characterising a cell means finding 4 parameters
+1. rise transition - the time taken by output waveform from 20% of vdd to 80% of vdd
+2. propagation  time difference between 50% points in input and output
 
 
+
+
+
+ # LAb introduction to MAgic and DRC rules
+
+http://opencircuitdesign.com/magic/
+
+
+Technology file of magic include various rules
+
+
+Cif caltech intermediate format something similar to GDS format
+
+Basic DRC rules are rdge based rules. work by finding the edge or boundry between 2 layers and checking the area in front or behined the edge to find the voilation
+
+Area of min area rules. 
+
+
+
+
+ 
 
 

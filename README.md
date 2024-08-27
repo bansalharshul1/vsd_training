@@ -10,6 +10,9 @@
 [Day3 Design Library cell using Magic Layout and ngspice characterization ](https://github.com/bansalharshul1/vsd_training/blob/main/Day%203%20Design%20Library%20cell%20using%20Magic%20Layout%20and%20ngspice%20characterization.md#day3-design-library-cell-using-magic-layout-and-ngspice-characterization)
 
 
+[Day4 Pre-layout timing analysis and importance of good clock tree](https://github.com/bansalharshul1/vsd_training/blob/main/Day4%20Pre-layout%20timing%20analysis%20and%20implortance%20of%20good%20clock%20tree.md#day4-pre-layout-timing-analysis-and-implortance-of-good-clock-tree)
+
+
 
 
 

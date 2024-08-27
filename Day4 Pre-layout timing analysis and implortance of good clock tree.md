@@ -17,6 +17,16 @@ height of std cell should be in odd multiples of vertical pitch
 ![image](https://github.com/user-attachments/assets/049bbc2c-802f-422b-9898-9164b96b9dc3)
 
 
+Port class, port  
+
+![image](https://github.com/user-attachments/assets/375cebb6-b2da-4e52-9297-68605ea27129)
+
+command to extract the lef file: 
+
+
+
+
+
 # Timing analysis with ideal clock using openSTA
 
 

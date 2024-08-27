@@ -207,6 +207,37 @@ tech file is already defined in .magicrc file and our excercise will include cha
 Magic command :
 magic -d XR
 
+opening met3.mag in the magic and see the different DRCs
+
+https://skywater-pdk.readthedocs.io/en/main/rules/periphery.html#m3
+
+![image](https://github.com/user-attachments/assets/71558de0-01b5-487f-a187-5fb224d77b85)
+
+![image](https://github.com/user-attachments/assets/d868e76c-e93b-4594-9ce8-84bd3a0ceeb8)
+
+![image](https://github.com/user-attachments/assets/319b30fc-439c-4efd-9d56-b5ae10d4765c)
+
+commands 
+
+cif see VIA2
+
+feed clear
+
+
+LAB excercise to fix ply.9 in sky130
+
+Poly.9 rule error
+![image](https://github.com/user-attachments/assets/a3c80b42-3eaa-4f6b-a692-c7e9660658ab)
+
+
+![image](https://github.com/user-attachments/assets/e84d7935-9f82-4baa-a309-88e6ea982d7e)
+
+added the rule for poly to polyres
+![image](https://github.com/user-attachments/assets/6d5bffb0-2849-4fe5-a5ab-34bd83af6b4d)
+
+![image](https://github.com/user-attachments/assets/13082013-3017-439c-a2e5-b1aaa26f863b)
+
+tech load tech_file_path to load the new editied tech file
 
 
 

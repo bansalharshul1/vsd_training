@@ -45,6 +45,11 @@ run_synthesis again
 
 ![image](https://github.com/user-attachments/assets/33240702-d4b5-414d-825f-d43173a5dd0f)
 
+Introduction to delay tables 
+
+![image](https://github.com/user-attachments/assets/2efcef73-1d84-4c06-bb4f-29de9c2d9eff)
+
+
 
 
 # Timing analysis with ideal clock using openSTA

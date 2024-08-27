@@ -29,7 +29,11 @@ checking the lef file
 
 Next step is to use this lef in our picorv32
 
-moving the files to src folder
+copy lib files and lef files to src folder
+
+modify the config.tcl to change the LIB synthesis vaiable
+
+![image](https://github.com/user-attachments/assets/5a4dceb4-6699-476f-8c35-f5ebf88ae093)
 
 
 # Timing analysis with ideal clock using openSTA

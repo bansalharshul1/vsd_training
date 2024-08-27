@@ -204,6 +204,9 @@ Command to get the drc testcase.
 
 tech file is already defined in .magicrc file and our excercise will include changing the tech file
 
+Magic command :
+magic -d XR
+
 
 
 

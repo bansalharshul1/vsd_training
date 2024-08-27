@@ -23,6 +23,7 @@ VTC:  slightly shifted to left
 
 CASE 2 :
 width of pmos 2.5 * width of nmos
+
 ![image](https://github.com/user-attachments/assets/5a774491-4342-4073-8e8f-0deea4268e78)
 
 
@@ -34,10 +35,13 @@ case 2 switching threshold ~ 1.2
 
 ![image](https://github.com/user-attachments/assets/ac21ddd7-a100-4203-aa37-c6ce6f1ba5d9)
 
+
 ![image](https://github.com/user-attachments/assets/302fb546-321e-4ece-b949-0176ff52243b)
+
 
 ![image](https://github.com/user-attachments/assets/c40cc96d-b6d0-4039-863a-f74bbe7dd410)
  
+
 indentifying the how rise and fall delay vary with the change in switching threshold
 
  

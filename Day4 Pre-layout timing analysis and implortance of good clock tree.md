@@ -1,4 +1,4 @@
-# Day4 Pre-layout timing analysis and implortance of good clock tree
+![image](https://github.com/user-attachments/assets/7466d68c-79a3-4a3e-bf8f-51dff9955bfb)# Day4 Pre-layout timing analysis and implortance of good clock tree
 
 # Timing Modelling using delay Tables
 
@@ -34,6 +34,17 @@ copy lib files and lef files to src folder
 modify the config.tcl to change the LIB synthesis vaiable
 
 ![image](https://github.com/user-attachments/assets/5a4dceb4-6699-476f-8c35-f5ebf88ae093)
+
+![image](https://github.com/user-attachments/assets/b9e056ec-a6f3-4ce6-a3e5-406e607795b5)
+
+prep -design picorv32a -tag xyz -overwrite
+
+add_lefs -src $lefs
+
+run_synthesis again 
+
+![image](https://github.com/user-attachments/assets/33240702-d4b5-414d-825f-d43173a5dd0f)
+
 
 
 # Timing analysis with ideal clock using openSTA

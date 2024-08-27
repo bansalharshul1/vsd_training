@@ -154,7 +154,12 @@ checking the mag file.
 8.  Spice file
    ![image](https://github.com/user-attachments/assets/9caf1824-6600-423e-a770-e84973d6c456)
 
+![image](https://github.com/user-attachments/assets/01853228-ac91-4387-9035-327c249851c7)
 
+transient simulation: 
+![image](https://github.com/user-attachments/assets/58676c95-000d-4594-83d2-38d433d86a1c)
+
+![Uploading image.png…]()
 
 
 # Tech File Labs

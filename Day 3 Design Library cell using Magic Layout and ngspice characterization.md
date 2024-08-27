@@ -200,6 +200,7 @@ Google skywater pdk docs: https://skywater-pdk.readthedocs.io/en/main/
 DRC rules: http://opencircuitdesign.com/magic/techref/maint2.html#drc
 
 Command to get the drc testcase. 
+
 ![image](https://github.com/user-attachments/assets/488c4358-889c-4583-828d-b25d05d3da4f)
 
 tech file is already defined in .magicrc file and our excercise will include changing the tech file
@@ -227,12 +228,14 @@ feed clear
 LAB excercise to fix ply.9 in sky130
 
 Poly.9 rule error
+
 ![image](https://github.com/user-attachments/assets/a3c80b42-3eaa-4f6b-a692-c7e9660658ab)
 
 
 ![image](https://github.com/user-attachments/assets/e84d7935-9f82-4baa-a309-88e6ea982d7e)
 
 added the rule for poly to polyres
+
 ![image](https://github.com/user-attachments/assets/6d5bffb0-2849-4fe5-a5ab-34bd83af6b4d)
 
 ![image](https://github.com/user-attachments/assets/13082013-3017-439c-a2e5-b1aaa26f863b)

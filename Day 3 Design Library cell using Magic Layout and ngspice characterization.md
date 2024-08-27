@@ -202,6 +202,9 @@ DRC rules: http://opencircuitdesign.com/magic/techref/maint2.html#drc
 Command to get the drc testcase. 
 ![image](https://github.com/user-attachments/assets/488c4358-889c-4583-828d-b25d05d3da4f)
 
+tech file is already defined in .magicrc file and our excercise will include changing the tech file
+
+
 
 
 

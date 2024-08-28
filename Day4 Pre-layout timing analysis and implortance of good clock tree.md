@@ -59,6 +59,9 @@ Delay tables
 
 input transition of a cell is varied and output load was also varied from 10fm to 100pf
 
+![image](https://github.com/user-attachments/assets/e9a39b93-2284-4c7a-bdba-242188373a21)
+
+
 
 
 # Timing analysis with ideal clock using openSTA

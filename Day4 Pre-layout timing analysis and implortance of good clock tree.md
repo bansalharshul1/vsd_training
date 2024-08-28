@@ -128,6 +128,9 @@ Setup time of FF
 
 ![image](https://github.com/user-attachments/assets/ee18f6b4-962b-489f-afda-2d38bb61ecf4)
 
+Clock jitter effect 
+
+Delay < time_period - Setup - uncertainity
 
 
 

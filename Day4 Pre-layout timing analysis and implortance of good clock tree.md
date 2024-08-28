@@ -49,6 +49,7 @@ Introduction to delay tables
 
 ![image](https://github.com/user-attachments/assets/2efcef73-1d84-4c06-bb4f-29de9c2d9eff)
 
+![image](https://github.com/user-attachments/assets/74fd7d93-2bf2-4536-8402-b47e95ae2474)
 
 
 

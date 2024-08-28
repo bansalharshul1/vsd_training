@@ -65,6 +65,7 @@ there is a seperate transition table
 
 
 # Timing analysis with ideal clock using openSTA
+![image](https://github.com/user-attachments/assets/0e5cce82-c8a4-49c5-874c-fa955e207809)
 
 
 # clock Tree synthesis TritonCTS and signal integrity

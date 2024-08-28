@@ -68,6 +68,41 @@ there is a seperate transition table
 ![image](https://github.com/user-attachments/assets/0e5cce82-c8a4-49c5-874c-fa955e207809)
 
 
+Timing drivien synthesis:
+
+1st case 
+
+![image](https://github.com/user-attachments/assets/d80049bd-a696-4e42-b3d7-782a88097876)
+
+![image](https://github.com/user-attachments/assets/5a90b209-d653-497d-93d4-847d40d059a6)
+
+wns -23.89
+
+tns -711.59
+
+Chip area : 147712.918
+
+![image](https://github.com/user-attachments/assets/99a970d0-d385-405b-89dc-3e2e10013441)
+
+
+2ns Case: 
+SYNTH_BUFFERING, SYNTH_STRATERGY, SYNTH_SIZING
+
+![image](https://github.com/user-attachments/assets/4363c2d9-e281-45d4-b2dd-a403824e6564)
+
+![image](https://github.com/user-attachments/assets/f0781f6c-309c-452f-8bc4-e31666411548)
+
+running synthesis again : 
+
+![image](https://github.com/user-attachments/assets/b21ebfc8-6d0e-40fe-ae33-cdae00658673)
+
+![image](https://github.com/user-attachments/assets/bff583e4-a26f-401b-bb6c-6bfebb87a5dd)
+
+![image](https://github.com/user-attachments/assets/6476ef1b-c1c2-455d-93d8-5924a8307e1a)
+
+
+
+
 # clock Tree synthesis TritonCTS and signal integrity
 
 

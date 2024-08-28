@@ -99,6 +99,13 @@ running synthesis again :
 ![image](https://github.com/user-attachments/assets/6476ef1b-c1c2-455d-93d8-5924a8307e1a)
 
 
+NEw floorplan commands
+init_floorplan
+place_io
+global_placement_or
+tap_decap_or
+
+
 
 
 # clock Tree synthesis TritonCTS and signal integrity

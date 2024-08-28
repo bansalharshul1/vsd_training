@@ -53,16 +53,15 @@ Introduction to delay tables
 
 saving the dynamic clock tree power 
 
-![image](https://github.com/user-attachments/assets/74fd7d93-2bf2-4536-8402-b47e95ae2474)
+![image](https://github.com/user-attachments/assets/6bb8849c-31f0-41b2-ba95-c74be496633c)
 
 Delay tables 
 
 input transition of a cell is varied and output load was also varied from 10fm to 100pf
 
+there is a seperate transition table 
 
-
-
-
+![image](https://github.com/user-attachments/assets/92a5f325-9c7a-457d-9c28-1acca6f3d30b)
 
 
 # Timing analysis with ideal clock using openSTA

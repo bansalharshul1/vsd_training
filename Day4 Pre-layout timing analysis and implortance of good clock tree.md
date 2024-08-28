@@ -1,8 +1,11 @@
 # Day4 Pre-layout timing analysis and implortance of good clock tree
 
-![image](https://github.com/user-attachments/assets/7466d68c-79a3-4a3e-bf8f-51dff9955bfb)
+
 
 # Timing Modelling using delay Tables
+
+
+![image](https://github.com/user-attachments/assets/7466d68c-79a3-4a3e-bf8f-51dff9955bfb) 
 
 Lef file had the info about the port information input out power and ground
 
@@ -100,12 +103,24 @@ running synthesis again :
 
 
 NEw floorplan commands
+
 init_floorplan
+
 place_io
+
 global_placement_or
+
 tap_decap_or
 
+checking the floorplan def in the results 
 
+![image](https://github.com/user-attachments/assets/8f8ad0a9-eec3-4b6b-8987-d354d5061bce)
+
+![image](https://github.com/user-attachments/assets/09449dc4-2f31-4640-951d-ce52d2a8f84c)
+
+![image](https://github.com/user-attachments/assets/a2f8ec0f-58eb-44e0-81e3-942277041227)
+
+# Timing analysis with ideal clock using openSTA
 
 
 # clock Tree synthesis TritonCTS and signal integrity

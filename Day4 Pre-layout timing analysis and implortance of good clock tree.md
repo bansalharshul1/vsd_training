@@ -94,8 +94,6 @@ SYNTH_BUFFERING, SYNTH_STRATERGY, SYNTH_SIZING
 
 running synthesis again : 
 
-![image](https://github.com/user-attachments/assets/b21ebfc8-6d0e-40fe-ae33-cdae00658673)
-
 ![image](https://github.com/user-attachments/assets/bff583e4-a26f-401b-bb6c-6bfebb87a5dd)
 
 ![image](https://github.com/user-attachments/assets/6476ef1b-c1c2-455d-93d8-5924a8307e1a)

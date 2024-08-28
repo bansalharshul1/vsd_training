@@ -122,6 +122,14 @@ checking the floorplan def in the results
 
 # Timing analysis with ideal clock using openSTA
 
+![image](https://github.com/user-attachments/assets/b8ccebd2-aa8b-4aca-a68c-01491251cfe7)
+
+Setup time of FF
+
+![image](https://github.com/user-attachments/assets/ee18f6b4-962b-489f-afda-2d38bb61ecf4)
+
+
+
 
 # clock Tree synthesis TritonCTS and signal integrity
 

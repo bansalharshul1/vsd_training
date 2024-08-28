@@ -53,7 +53,6 @@ saving the dynamic clock tree power
 
 ![image](https://github.com/user-attachments/assets/74fd7d93-2bf2-4536-8402-b47e95ae2474)
 
-![Uploading image.png…]()
 
 
 # Timing analysis with ideal clock using openSTA

@@ -26,7 +26,8 @@ Lab steps to create PDN
 
 gen_pdn
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1de00b6c-38a1-4db9-8df9-ae1ca0e39b64)
+
 
 
 #TritonRoute Features 

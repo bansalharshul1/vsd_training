@@ -190,6 +190,42 @@ it created the clock tree for typical corner
 
 setup time could be seen as delay of 1st stage and hold time can be seen as delay of 2nd stage
 
+![image](https://github.com/user-attachments/assets/4fe4a43c-b840-4987-bc56-cdbeeecddfb4)
+
+![image](https://github.com/user-attachments/assets/d4990968-6ccc-485a-9fd5-13e737afa2ed)
+
+invoking open road inside openlane
+
+making a db
+
+read_lef mergerd lef
+
+read_def def after cts
+
+write_db
+
+read_db
+
+read_verilog 
+
+read_liberty -max
+
+read_liberty -min 
+
+read_sdc 
+
+set_propagated_clock [all_clocks]
+
+report_checks -path_delay min_max -format full_clock_expanded -digit 4
+
+![image](https://github.com/user-attachments/assets/b29d9c98-ceb9-4b65-903b-e0da6beb26cb)
+
+checking the effect of changing the buffer in cts. 
+
+
+
+
+
 
 
 

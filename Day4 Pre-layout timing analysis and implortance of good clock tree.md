@@ -113,11 +113,15 @@ tap_decap_or
 
 checking the floorplan def in the results 
 
+cheking placment def in the magic
 ![image](https://github.com/user-attachments/assets/8f8ad0a9-eec3-4b6b-8987-d354d5061bce)
 
 ![image](https://github.com/user-attachments/assets/09449dc4-2f31-4640-951d-ce52d2a8f84c)
 
 ![image](https://github.com/user-attachments/assets/a2f8ec0f-58eb-44e0-81e3-942277041227)
+
+run_placement
+
 
 # Timing analysis with ideal clock using openSTA
 

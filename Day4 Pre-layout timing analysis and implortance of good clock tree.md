@@ -182,7 +182,9 @@ it created the clock tree for typical corner
 
 # Timing analysis with real clock using openSTA
 
-![image](https://github.com/user-attachments/assets/e3e8785c-459e-45b1-ae3f-568235758de6)
+![image](https://github.com/user-attachments/assets/10da8533-9fa5-44d3-83bf-44ae5e5601db)
+
+![image](https://github.com/user-attachments/assets/9987d4a4-4a14-4e78-a1de-910d70857f53)
 
 
 

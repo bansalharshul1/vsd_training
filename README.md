@@ -12,7 +12,7 @@
 
 [Day4 Pre-layout timing analysis and importance of good clock tree](https://github.com/bansalharshul1/vsd_training/blob/main/Day4%20Pre-layout%20timing%20analysis%20and%20implortance%20of%20good%20clock%20tree.md#day4-pre-layout-timing-analysis-and-implortance-of-good-clock-tree)
 
-
+[Day5 TritonRoute and openSTA](https://github.com/bansalharshul1/vsd_training/blob/main/Day5%20Final%20step%20for%20RTL2GDS%20using%20tritonRoute%20and%20openSTA.md#final-steps-for-rtl2gds-using-tritonroute-and-opensta)
 
 
 

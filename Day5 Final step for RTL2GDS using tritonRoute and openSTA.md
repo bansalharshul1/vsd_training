@@ -16,9 +16,11 @@ There are lamda based rules, contraints on width area and overlap
 
 ![image](https://github.com/user-attachments/assets/3800d571-c261-4299-b002-5efa0781272f)
 
-
-
 #PDN
+
+Lab steps to create PDN
+
+![image](https://github.com/user-attachments/assets/0f1102ab-b4a7-4383-808c-d2700e7afccb)
 
 
 #TritonRoute Features 

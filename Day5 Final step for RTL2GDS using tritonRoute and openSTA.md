@@ -26,6 +26,7 @@ Lab steps to create PDN
 
 gen_pdn
 
+![Uploading image.png…]()
 
 
 #TritonRoute Features 

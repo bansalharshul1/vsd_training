@@ -170,7 +170,19 @@ the center points from all end points ans starting clock rounting from there
 
 Clock Net shielding
 
+![image](https://github.com/user-attachments/assets/b72d553b-2937-4c9a-92f0-cc58cc0dfc14)
+
+![image](https://github.com/user-attachments/assets/b258ceb2-8e22-46fa-9475-b61198547ed4)
+
+run_cts
+
+![image](https://github.com/user-attachments/assets/d961ad01-5764-44ce-9209-df43f3705387)
+
+it created the clock tree for typical corner
+
 # Timing analysis with real clock using openSTA
+
+![image](https://github.com/user-attachments/assets/e3e8785c-459e-45b1-ae3f-568235758de6)
 
 
 

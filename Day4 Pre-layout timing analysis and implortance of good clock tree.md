@@ -5,7 +5,6 @@
 # Timing Modelling using delay Tables
 
 
-![image](https://github.com/user-attachments/assets/7466d68c-79a3-4a3e-bf8f-51dff9955bfb) 
 
 Lef file had the info about the port information input out power and ground
 

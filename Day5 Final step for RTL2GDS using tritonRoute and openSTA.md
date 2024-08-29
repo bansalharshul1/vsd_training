@@ -28,6 +28,16 @@ gen_pdn
 
 ![image](https://github.com/user-attachments/assets/1de00b6c-38a1-4db9-8df9-ae1ca0e39b64)
 
+![image](https://github.com/user-attachments/assets/7d9fc283-c5c1-4571-957f-f31bad71b08e)
 
 
 #TritonRoute Features 
+
+![image](https://github.com/user-attachments/assets/153c052f-25cd-4af0-a2b0-b1ea7e3e5a87)
+
+![image](https://github.com/user-attachments/assets/c085fff9-d067-4b69-9ced-72d4a4dbef4b)
+
+![image](https://github.com/user-attachments/assets/79defcd3-bad0-4d29-ad03-7e09844e1b2a)
+
+![image](https://github.com/user-attachments/assets/e9ea9bf2-878e-4c58-95b6-10261e5a2afb)
+

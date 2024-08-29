@@ -186,5 +186,10 @@ it created the clock tree for typical corner
 
 ![image](https://github.com/user-attachments/assets/9987d4a4-4a14-4e78-a1de-910d70857f53)
 
+![image](https://github.com/user-attachments/assets/725fdbaa-5147-43e9-aebb-d9434db25871)
+
+setup time could be seen as delay of 1st stage and hold time can be seen as delay of 2nd stage
+
+
 
 

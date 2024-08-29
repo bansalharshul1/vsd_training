@@ -44,3 +44,12 @@ gen_pdn
 ![image](https://github.com/user-attachments/assets/45fdb215-797a-4df2-98d4-76beeb344209)
 
 
+new def and spef after routing is present in routing result folder
+
+![image](https://github.com/user-attachments/assets/4edbc807-578f-40a5-8a29-d9e10d9f9316)
+
+new netlist preroute include diode insertion 
+
+![image](https://github.com/user-attachments/assets/c9f3fb1b-df36-4837-92ce-ef77452ac4d0)
+
+

@@ -135,9 +135,42 @@ Clock jitter effect
 
 Delay < time_period - Setup - uncertainity
 
+#LAB to configure openSTA 
 
+![image](https://github.com/user-attachments/assets/0601a623-1f73-4855-8476-5bca51f1ba40)
+
+sta pre_sta.conf
+
+steps to reduce the setup voilation 
+
+delay dependent on input transition and output load 
+
+setting set::env(SYNTH_MAX_FANOOUT) 4
+
+after the fanout limit 
+
+we can replace a cell with a high strength cell is fanout and load is high
 
 # clock Tree synthesis TritonCTS and signal integrity
 
+![image](https://github.com/user-attachments/assets/c6b77ea7-cff5-4fc5-a821-610c51466da8)
+
+![image](https://github.com/user-attachments/assets/192cbaf3-b682-4758-94a4-a3b8f159a637)
+
+H tree concept 
+
+![image](https://github.com/user-attachments/assets/aac9d288-5511-4ad7-957f-4f8c5f8f185f)
+
+repeter stages are added to reduce the delay 
+
+
+the center points from all end points ans starting clock rounting from there
+
+![image](https://github.com/user-attachments/assets/63095113-38dd-4386-990d-208c82c36cde)
+
+Clock Net shielding
 
 # Timing analysis with real clock using openSTA
+
+
+
